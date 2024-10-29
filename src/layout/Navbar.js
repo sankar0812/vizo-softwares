@@ -23,10 +23,10 @@ import logo from '../assets/logo/logo2.png';
 
 const drawerWidth = 240;
 const navItems = [
-    { name: 'Home', path: '/vizoss' },
-    { name: 'Courses', path: '/vizoss/courses' },
-    { name: 'Services', path: '/vizoss/services' },
-    { name: 'Contact Us', path: '/vizoss/contact' },
+    { name: 'Home', path: '/' },
+    { name: 'Courses', path: '/courses' },
+    { name: 'Services', path: '/services' },
+    { name: 'Contact Us', path: '/contact' },
 ];
 
 const UnderlinedButton = styled(Button)(({ theme }) => ({
