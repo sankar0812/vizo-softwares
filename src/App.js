@@ -26,10 +26,10 @@ const App = () => {
       <>
           <ElevateAppBar />
           <Routes>
-            <Route path="/vizoss" element={<Home />} />
-            <Route path="/vizoss/contact" element={<ContactUs />} />
-            <Route path="/vizoss/courses" element={<Courses />} />
-            <Route path="/vizoss/services" element={<Services />} />
+            <Route path="/" element={<Home />} />
+            <Route path="/contact" element={<ContactUs />} />
+            <Route path="/courses" element={<Courses />} />
+            <Route path="/services" element={<Services />} />
           </Routes>
           <div className="floating-message-icon" onClick={() => setIsModalOpen(true)}>
             <i className="fas fa-comment-dots"></i>
