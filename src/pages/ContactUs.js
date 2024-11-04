@@ -139,6 +139,9 @@ const ContactUs = () => {
                                     <Typography variant="body2" sx={{ fontSize: '1rem', lineHeight: 1.5, color: 'black' }}>
                                         91-6379691338
                                     </Typography>
+                                    <Typography variant="body2" sx={{ fontSize: '1rem', lineHeight: 1.5, color: 'black' }}>
+                                        91-8754130812
+                                    </Typography>
                                 </InfoBox>
                             </Card>
                             <Card>
