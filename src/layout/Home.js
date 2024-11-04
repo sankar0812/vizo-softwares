@@ -452,7 +452,7 @@ const Home = () => {
                             <Typography variant="body2" sx={{ ml: 1, fontSize: '1rem', lineHeight: 1.5 }}>
                                 91-6379691338
                             </Typography>
-                            <Typography variant="body2" sx={{ fontSize: '1rem', lineHeight: 1.5 }}>
+                            <Typography variant="body2" sx={{ ml: 1, fontSize: '1rem', lineHeight: 1.5 }}>
                                91-8754130812
                             </Typography>
                         </Box>
