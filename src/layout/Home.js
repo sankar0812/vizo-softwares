@@ -449,12 +449,14 @@ const Home = () => {
                         </Box>
                         <Box sx={{ display: 'flex', justifyContent: 'center', alignItems: 'center', mt: 2, mb: 2 }}>
                             <PhoneInTalkIcon sx={{ fontSize: '2rem', color: 'white' }} />
-                            <Typography variant="body2" sx={{ ml: 1, fontSize: '1rem', lineHeight: 1.5 }}>
-                                91-6379691338
-                            </Typography>
-                            <Typography variant="body2" sx={{ ml: 1, fontSize: '1rem', lineHeight: 1.5 }}>
-                               91-8754130812
-                            </Typography>
+                            <Box sx={{ ml: 1 }}>
+                              <Typography variant="body2" sx={{ fontSize: '1rem', lineHeight: 1.5 }}>
+                                 91-6379691338
+                              </Typography>
+                              <Typography variant="body2" sx={{ fontSize: '1rem', lineHeight: 1.5 }}>
+                                 91-8754130812
+                              </Typography>
+                            </Box>
                         </Box>
                     </Box>
                 </Box>
