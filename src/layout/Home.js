@@ -451,6 +451,7 @@ const Home = () => {
                             <PhoneInTalkIcon sx={{ fontSize: '2rem', color: 'white' }} />
                             <Typography variant="body2" sx={{ ml: 1, fontSize: '1rem', lineHeight: 1.5 }}>
                                 91-6379691338
+                                91-8754130812
                             </Typography>
                         </Box>
                     </Box>
